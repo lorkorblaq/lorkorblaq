@@ -72,6 +72,6 @@ I'm passionate about building scalable applications using modern backend technol
 
 ### 📫 **Let's Connect**
 
-- [LinkedIn](https://www.linkedin.com/in/olorunfemioloko)  
-- [YouTube](https://www.youtube.com/channel/XXXXX)  
-- [Twitter](https://twitter.com/olorunfemioloko)  
+- [LinkedIn](https://www.linkedin.com/in/olorunfemi.oloko)  
+- [YouTube](https://www.youtube.com/@LabPalApp)  
+- [Twitter](https://twitter.com/lorkorblaq)  
