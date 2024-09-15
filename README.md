@@ -1,5 +1,10 @@
 # Hi there, I'm Olorunfemi Oloko! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%2C+pleased+to+meet+you!;Thanks+for+dropping+by!+%F0%9F%98%8A" alt="Hey, pleased to meet you... Thanks for dropping by!" />
+</p>
+
+
 🚀 **Backend Software Engineer | Python & JavaScript Enthusiast**  
 I'm passionate about building scalable applications using modern backend technologies.
 
