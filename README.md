@@ -75,5 +75,8 @@ I'm passionate about building scalable applications using modern backend technol
 - [LinkedIn](https://www.linkedin.com/in/olorunfemi.oloko)  
 - [YouTube](https://www.youtube.com/@LabPalApp)  
 - [Twitter](https://twitter.com/lorkorblaq)
-  
+
+###
+<p align="center">
 <img src="https://camo.githubusercontent.com/a2b80854f418d2a558307ae8c0e31877e1b434a272aacaf94c0a91e432edc909/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578617a566f4f5774746233553163324a76635759794f444a365a54643563484a695a7a457a62325235635856694d57686f4d44637a5a435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4363774c4156313163414c68334f75454a352f67697068792e676966" data-canonical-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
