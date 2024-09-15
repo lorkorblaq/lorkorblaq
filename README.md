@@ -50,11 +50,11 @@ I'm passionate about building scalable applications using modern backend technol
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olorunfemioloko&show_icons=true&theme=radical" alt="Olorunfemi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lorkorblaq&show_icons=true&theme=radical" alt="Olorunfemi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olorunfemioloko&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorkorblaq&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
