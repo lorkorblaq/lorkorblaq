@@ -38,11 +38,6 @@ I'm passionate about building scalable applications using modern backend technol
     <td><a href="https://www.youtube.com/watch?v=8_7yLfQmJTE"><img src="https://img.youtube.com/vi/XXXXX/0.jpg" alt="Labpal Registration" /></a></td>
     <td><a href="https://www.youtube.com/watch?v=ueqLravyT_A"><img src="https://img.youtube.com/vi/XXXXX/0.jpg" alt="Labpal Inventory" /></a></td>
   </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=XXXXX">Programmers Need More Math</a></td>
-    <td><a href="https://www.youtube.com/watch?v=XXXXX">How to Destroy Developer Productivity</a></td>
-    <td><a href="https://www.youtube.com/watch?v=XXXXX">Everything You Need to Know About Git</a></td>
-  </tr>
 </table>
 
 ---
