@@ -36,7 +36,7 @@ I'm passionate about building scalable applications using modern backend technol
   <tr>
     <td><a href="https://www.youtube.com/watch?v=IImwobgWrhU"><img src="https://img.youtube.com/vi/IImwobgWrhU/sddefault.jpg" alt="Labpal in 100 seconds" /></a></td>
     <td><a href="https://www.youtube.com/watch?v=8_7yLfQmJTE"><img src="https://img.youtube.com/vi/8_7yLfQmJTE/0.jpg" alt="Labpal Registration" /></a></td>
-    <td><a href="https://www.youtube.com/watch?v=ueqLravyT_A"><img src="https://img.youtube.com/vi/ueqLravyT_A/0.jpg" alt="Labpal Inventory" /></a></td>
+    <td><a href="https://www.youtube.com/watch?v=ueqLravyT_A"><img src="https://img.youtube.com/vi/ueqLravyT_A/mqdefault.jpg" alt="Labpal Inventory" /></a></td>
   </tr>
 </table>
 
