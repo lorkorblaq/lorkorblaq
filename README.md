@@ -8,7 +8,7 @@
 
 #
 
-🚀 **Backend Software Engineer | Python & JavaScript Enthusiast**  
+🚀 **Backend Software Engineer | Python | Go-Lang | TypeScript**  
 I'm passionate about building scalable applications using modern backend technologies.
 
 ---
