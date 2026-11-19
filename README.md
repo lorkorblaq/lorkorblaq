@@ -82,8 +82,7 @@ on healthcare and lab tech.
 <table>
   <tr>
     <td align="center"><a href="https://www.youtube.com/watch?v=IImwobgWrhU"><img src="https://img.youtube.com/vi/IImwobgWrhU/0.jpg" alt="Labpal in 100 seconds" /></a><br /><sub>LabPal in 100 seconds</sub></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=8_7yLfQmJTE"><img src="https://img.youtube.com/vi/8_7yLfQmJTE/0.jpg" alt="Labpal Registration" /></a><br /><sub>Registration</sub></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=ueqLravyT_A"><img src="https://img.youtube.com/vi/ueqLravyT_A/0.jpg" alt="Labpal Inventory" /></a><br /><sub>Inventory</sub></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=g0oZ8hTponc"><img src="https://img.youtube.com/vi/g0oZ8hTponc/0.jpg" alt="Labpal Registration" /></a><br /><sub>Updated Labpal</sub></td>
   </tr>
 </table>
 
